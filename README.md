@@ -193,7 +193,7 @@ If visualizations don't automatically open:
 
 ## Data Sources
 
-The OSM road network datasets included in this repository are simplified excerpts from OpenStreetMap data.
+No road network datasets included in this repository.
 
 ## License
 
